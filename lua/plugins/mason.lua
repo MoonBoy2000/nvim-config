@@ -38,7 +38,7 @@ return {
       "stimulus-language-server",
       "stylua",
       "taplo",
-      "tinymist",
+      -- "tinymist",
       "tree-sitter-cli",
       -- "typstyle",
     },
