@@ -8,3 +8,6 @@ vim.o.softtabstop = 4 -- Number of spaces inserted instead of a TAB character
 vim.o.shiftwidth = 4 -- Number of spaces inserted when indenting
 vim.g.lazyvim_php_lsp = "intelephense"
 -- vim.g.snacks_animate = false
+-- vim.opt.scrolloff = 2
+-- vim.opt.smoothscroll = false
+-- vim.opt.mousescroll = "ver:1" -- Så här ändar man scorll för senare däremot.
