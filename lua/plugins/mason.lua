@@ -8,7 +8,7 @@ return {
       "clangd",
       "cmakelang",
       "cmakelint",
-      "codebook",
+      -- "codebook",
       "cpplint",
       "cpptools",
       "debugpy",
