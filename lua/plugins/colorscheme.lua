@@ -1,14 +1,14 @@
-if true then
-  return {}
-end
+-- if true then
+--   return {}
+-- end
 
 return {
-
   {
     "catppuccin/nvim",
     lazy = true,
     name = "catppuccin",
     opts = {
+      flavour = "macchiato",
       lsp_styles = {
         underlines = {
           errors = { "undercurl" },
@@ -60,7 +60,7 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "catppuccin",
+      colorscheme = "catppuccin-nvim",
     },
   },
 }
