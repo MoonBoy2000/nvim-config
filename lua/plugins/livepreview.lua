@@ -1,3 +1,7 @@
+if true then
+  return {}
+end
+-- not used anymore,
 return {
   "brianhuster/live-preview.nvim",
   dependencies = {
